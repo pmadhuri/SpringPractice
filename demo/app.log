@@ -1,0 +1,35 @@
+07.16. 10.27.58.095 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port 9090 (http)
+07.16. 10.27.58.210 [main] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 1585 ms
+07.16. 10.27.58.898 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port 9090 (http) with context path '/'
+07.16. 10.30.43.665 [RMI TCP Connection(7)-127.0.0.1] [INFO] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin]-Application shutdown requested.
+07.16. 10.30.43.668 [RMI TCP Connection(7)-127.0.0.1] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Commencing graceful shutdown. Waiting for active requests to complete
+07.16. 10.30.43.804 [tomcat-shutdown] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Graceful shutdown complete
+07.16. 10.30.48.263 [main] [INFO] [com.demo.DemoApplication]-Starting DemoApplication using Java 17.0.12 with PID 26104 (C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo\target\classes started by Sandeep in C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo)
+07.16. 10.30.48.267 [main] [INFO] [com.demo.DemoApplication]-No active profile set, falling back to 1 default profile: "default"
+07.16. 10.30.49.307 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port 9090 (http)
+07.16. 10.30.49.394 [main] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 1063 ms
+07.16. 10.30.49.463 [main] [INFO] [c.demo.controller.StudentController]-started Student Controller Called 
+07.16. 10.30.49.859 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port 9090 (http) with context path '/'
+07.16. 10.30.49.869 [main] [INFO] [com.demo.DemoApplication]-Started DemoApplication in 2.125 seconds (process running for 3.161)
+07.16. 10.37.25.690 [RMI TCP Connection(10)-127.0.0.1] [INFO] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin]-Application shutdown requested.
+07.16. 10.37.25.696 [RMI TCP Connection(10)-127.0.0.1] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Commencing graceful shutdown. Waiting for active requests to complete
+07.16. 10.37.25.858 [tomcat-shutdown] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Graceful shutdown complete
+07.16. 10.37.31.260 [main] [INFO] [com.demo.DemoApplication]-Starting DemoApplication using Java 17.0.12 with PID 29028 (C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo\target\classes started by Sandeep in C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo)
+07.16. 10.37.31.262 [main] [INFO] [com.demo.DemoApplication]-No active profile set, falling back to 1 default profile: "default"
+07.16. 10.37.32.720 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port 9090 (http)
+07.16. 10.37.32.848 [main] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 1510 ms
+07.16. 10.37.33.416 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port 9090 (http) with context path '/'
+07.16. 10.37.33.429 [main] [INFO] [com.demo.DemoApplication]-Started DemoApplication in 2.799 seconds (process running for 3.981)
+07.16. 10.39.34.689 [RMI TCP Connection(4)-127.0.0.1] [INFO] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin]-Application shutdown requested.
+07.16. 10.39.34.693 [RMI TCP Connection(4)-127.0.0.1] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Commencing graceful shutdown. Waiting for active requests to complete
+07.16. 10.39.34.812 [tomcat-shutdown] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Graceful shutdown complete
+07.16. 10.41.03.233 [main] [INFO] [com.demo.DemoApplication]-Starting DemoApplication using Java 17.0.12 with PID 24012 (C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo\target\classes started by Sandeep in C:\Users\Sandeep\Desktop\Spring\SpringWorkspace\demo)
+07.16. 10.41.03.239 [main] [INFO] [com.demo.DemoApplication]-No active profile set, falling back to 1 default profile: "default"
+07.16. 10.41.04.727 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port 9090 (http)
+07.16. 10.41.04.819 [main] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 1421 ms
+07.16. 10.41.04.977 [main] [INFO] [c.demo.controller.StudentController]-started Student Controller Called 
+07.16. 10.41.05.496 [main] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port 9090 (http) with context path '/'
+07.16. 10.41.05.508 [main] [INFO] [com.demo.DemoApplication]-Started DemoApplication in 2.771 seconds (process running for 3.859)
+07.16. 10.41.37.858 [RMI TCP Connection(4)-127.0.0.1] [INFO] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin]-Application shutdown requested.
+07.16. 10.41.37.863 [RMI TCP Connection(4)-127.0.0.1] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Commencing graceful shutdown. Waiting for active requests to complete
+07.16. 10.41.38.414 [tomcat-shutdown] [INFO] [o.s.b.w.e.tomcat.GracefulShutdown]-Graceful shutdown complete
